@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bg_clear.png</file>
+        <file>D:/img/img/bglayer_gogo_p2.png</file>
+    </qresource>
+    <qresource prefix="/sounds"/>
+</RCC>
